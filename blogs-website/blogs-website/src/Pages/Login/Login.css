@@ -1,0 +1,18 @@
+.Login-page
+{
+    background: url('/Media/signup.jpg');
+    width: 100%;
+    height:100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Login-form
+{
+    width: 500px;
+    background: white;
+    padding: 25px;
+    height: 500px;
+    border-radius: 40px;
+}
